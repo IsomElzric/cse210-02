@@ -1,8 +1,8 @@
 """
-hilo.py
-This is a simple game of hi lo. 
+__main__.py
+This is entry point for the hilo game.
 
-for CSE 210
+for CSE 210 w02
 by Alexander Turner
 """
 
